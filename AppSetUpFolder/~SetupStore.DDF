@@ -1,0 +1,30 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=D:\project\~SetupStore.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=D:\project\~SetupStore_LAYOUT.INF
+.Set RptFileName=D:\project\~SetupStore.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+D:\project\readme.txt
+D:\project\bin\ELECTR~1.EXE
+D:\project\dll\msader15.dll
+D:\project\dll\msado15.dll
+D:\project\dll\MSBIND.DLL
+D:\project\dll\msvbvm60.dll
+D:\project\dll\stdole2.tlb
+D:\project\dll\stdole32.tlb
+D:\project\dll\VB6.OLB
+D:\project\bin\install.bat
